@@ -49,6 +49,16 @@ public class Hipster
 	}
 
 
+	public Book[] getHipsterBooks()
+	{
+		return hipsterBooks;
+	}
+
+	public void setHipsterBooks(Book[] hipsterBooks)
+	{
+		this.hipsterBooks = hipsterBooks;
+	}
+
 	public String getName()
 	{
 		return name;
