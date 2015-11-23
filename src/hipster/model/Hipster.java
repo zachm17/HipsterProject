@@ -41,7 +41,7 @@ public class Hipster
 		secondBook.setPageCount(999);
 		secondBook.setPrice(29.99);
 		
-		thirdBook = new Book(640, "Greyson Mitra", "You Fricken Fricks", "Non Fiction", 10.99 );
+		thirdBook = new Book(640, "Greyson Mitra", "Non-Fiction", "You fricken fricks", 10.99 );
 		
 		hipsterBooks[0] = firstBook;
 		hipsterBooks[1] = secondBook;
